@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PRODIGY_WD_04%20/static/css/main.63968fe2.css",
+    "main.js": "/PRODIGY_WD_04%20/static/js/main.e1fe0f60.js",
+    "static/media/ChatApp3.png": "/PRODIGY_WD_04%20/static/media/ChatApp3.5758764a66d11d5ea75a.png",
+    "static/media/E-commerce.png": "/PRODIGY_WD_04%20/static/media/E-commerce.1ef40429af902c6adab3.png",
+    "static/media/resturent.png": "/PRODIGY_WD_04%20/static/media/resturent.170221e062efc2314006.png",
+    "static/media/xo.png": "/PRODIGY_WD_04%20/static/media/xo.62ccaac0525ce330ad71.png",
+    "static/media/groot.png": "/PRODIGY_WD_04%20/static/media/groot.270d73624629f283b1e9.png",
+    "static/media/stopwatch.png": "/PRODIGY_WD_04%20/static/media/stopwatch.b780393cf05e6beaa026.png",
+    "static/media/Fitness.png": "/PRODIGY_WD_04%20/static/media/Fitness.51ce550e69b22bbc9192.png",
+    "static/media/landing.png": "/PRODIGY_WD_04%20/static/media/landing.aa915bfa3070a034f2e5.png",
+    "static/media/Spotify2.png": "/PRODIGY_WD_04%20/static/media/Spotify2.94e068507db79ca68d61.png",
+    "static/media/react.png": "/PRODIGY_WD_04%20/static/media/react.dbe560099784932a1b3f.png",
+    "static/media/mongo-db.png": "/PRODIGY_WD_04%20/static/media/mongo-db.1903303ace5c1f0cd951.png",
+    "static/media/nodejs.png": "/PRODIGY_WD_04%20/static/media/nodejs.1be41223ce1924197aa2.png",
+    "static/media/dashboard.jpg": "/PRODIGY_WD_04%20/static/media/dashboard.2ef19c736e8860a9f167.jpg",
+    "static/media/css.png": "/PRODIGY_WD_04%20/static/media/css.0c375b2751cf0e37a591.png",
+    "static/media/html.png": "/PRODIGY_WD_04%20/static/media/html.539b77bfbf547e241c83.png",
+    "static/media/javascript.png": "/PRODIGY_WD_04%20/static/media/javascript.704d7658c99ce8a8ca63.png",
+    "static/media/figma.png": "/PRODIGY_WD_04%20/static/media/figma.ae50c547b90fac264a08.png",
+    "static/media/tailwind.png": "/PRODIGY_WD_04%20/static/media/tailwind.d02168423940e016e9f9.png",
+    "static/media/weather.jpg": "/PRODIGY_WD_04%20/static/media/weather.3bc7f08643fcfef0cf0b.jpg",
+    "static/media/bootstrap.png": "/PRODIGY_WD_04%20/static/media/bootstrap.6c7143b2f324fa4d0997.png",
+    "static/media/fullstack.jpg": "/PRODIGY_WD_04%20/static/media/fullstack.2551006093227d0160c7.jpg",
+    "static/media/avatar.png": "/PRODIGY_WD_04%20/static/media/avatar.d5262ae4bb42156b82aa.png",
+    "index.html": "/PRODIGY_WD_04%20/index.html",
+    "main.63968fe2.css.map": "/PRODIGY_WD_04%20/static/css/main.63968fe2.css.map",
+    "main.e1fe0f60.js.map": "/PRODIGY_WD_04%20/static/js/main.e1fe0f60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63968fe2.css",
+    "static/js/main.e1fe0f60.js"
+  ]
+}
